@@ -14,6 +14,7 @@
 <p align="left">
   <a href="https://github.com/zezinn">
     <img src="https://img.shields.io/badge/GitHub-ZEZINN-181717?style=for-the-badge&logo=github" />
+ 
   </a>
   <a href="https://instagram.com/zeel1as">
     <img src="https://img.shields.io/badge/Instagram-@ZEEL1AS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
